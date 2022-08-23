@@ -8,7 +8,7 @@ SwiftUI `Markdown` is a Swift package for render markdown text in SwiftUI. Use j
 import Markdown
 
 var body: some View {
-  Markdown("You can try **CommonMark** [here](https://spec.commonmark.org/dingus/).")
+  Markdown("You can try **MarkdownKit** [here](https://github.com/bmoliveira/MarkdownKit).")
 }
 ```
 
